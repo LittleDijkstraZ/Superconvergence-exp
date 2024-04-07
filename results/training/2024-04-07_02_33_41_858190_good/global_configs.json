@@ -1,0 +1,1 @@
+{"total_steps": 20000, "eval_interval": 100, "batch_size": 128, "max_lr": 0.05, "len_train": 40000, "len_val": 10000}
